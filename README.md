@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Software Engineering student @ UnB  <br>🔧 Network Technician Intern @ MPF  <br><br>
+👨‍💻 Software Engineering student @ UnB  <br>🔧 Network Technician Intern @ MPF <br>👨‍💻 Background in IT (IF Goiano) <br><br>
 
 
 # 💻 Tech Stack:
